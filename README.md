@@ -1,4 +1,4 @@
-# Deep-Learning Method for Low-Field MRI Reconstruction with priors learned from reference high-field data
+# Deep-Learning Method for Low-Field MRI Reconstruction with priors learned from reference High-Field data
 
 
 PyTorch implementation of ViT-Fuser + Hybrid loss for Low-Field MRI reconstruction
